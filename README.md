@@ -9,8 +9,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- Aspiring Software Engineer, Final-year Computer Science student and Full Stack Developer focused on building real-world, scalable applications. I specialise in Java-based development and problem-solving, with strong foundations in Data Structures and Algorithms. I don’t just learn concepts — I implement them. My technical stack includes Java, HTML, CSS, JavaScript, and database integration. Alongside development, I actively strengthen my algorithmic thinking through structured DSA practice and competitive coding. I am driven by clean architecture, efficient code, and continuous improvement. I am seeking software engineering or full-stack opportunities where I can contribute meaningfully from day one and grow in high-impact engineering environments. Always open to learning, networking, and exploring opportunities in AI, software development, and data analytics. I am continuously working on strengthening my problem-solving abilities and writing clean, efficient code. Currently seeking full-time internship opportunities in software development and AI/ML roles.
-- Let's connect and grow together!
+- Code-driven final-year Computer Science student and aspiring Software Engineer, skilled in Java and full-stack development. Passionate about building scalable, efficient applications and strengthening problem-solving through DSA and competitive coding. Seeking full-time internship opportunities in software development and AI/ML to contribute and grow in high-impact environments.
+Let's connect and grow together!
 
 
 ## 🧠 My Focus Areas
