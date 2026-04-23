@@ -15,6 +15,7 @@ Let's connect and grow together!
 
 ## 🧠 My Focus Areas
 - full stack developer
+- Software developer 
 - AI/ML
 
 
