@@ -17,7 +17,7 @@ Let's connect and grow together!
 - full stack developer
 - Software developer 
 - AI/ML
-  
+- UI/UX
 
 
 ## 📊 GitHub Stats & Trophies
