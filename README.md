@@ -1,4 +1,6 @@
 
+
+
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Ramya%20Gupta&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=%20Aspiring%20Software%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
